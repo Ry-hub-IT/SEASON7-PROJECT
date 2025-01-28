@@ -1,1 +1,1 @@
-This is my final project of how 
+This is my final project of a creation of a fashion and design website.
