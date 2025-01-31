@@ -5,7 +5,13 @@ body{
     align-items: center;
 
 }
-
+/* Responsive Design */
+@media (max-width: 600px) {
+    body{
+        display: block;
+        margin: 5px 0;
+    }
+}
 .liv{
     border: none;
 }
