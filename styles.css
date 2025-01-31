@@ -5,6 +5,7 @@ body{
     align-items: center;
 
 }
+
 .liv{
     border: none;
 }
@@ -14,8 +15,10 @@ body{
 .reg{
     color: black;
     font-weight: bold;
+    font-style: oblique;
     font-size: larger;
     align-content: center;
+    
     
 }
 .trim{
